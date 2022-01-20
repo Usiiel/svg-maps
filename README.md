@@ -12,6 +12,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇨🇦 [Canada](packages/canada)
 * 🇨🇦 [Canada, Lambert Projection](packages/canada.lambert-projection)
 * 🇨🇻 [Cape Verde](packages/cape-verde)
+* 🇨🇱 [Chile](packages/chile)
 * 🇨🇳 [China](packages/china)
 * 🇨🇴 [Colombia](packages/colombia)
 * 🇩🇰 [Denmark](packages/denmark)
@@ -124,6 +125,7 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/fbouhamd"><img src="https://avatars.githubusercontent.com/u/33428552?v=4?s=100" width="100px;" alt=""/><br /><sub><b>fbouhamd</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=fbouhamd" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/keatonboyle"><img src="https://avatars3.githubusercontent.com/u/3393465?v=4?s=100" width="100px;" alt=""/><br /><sub><b>keatonboyle</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=keatonboyle" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/tyangjawi03"><img src="https://avatars0.githubusercontent.com/u/7666467?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tyangjawi03</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=tyangjawi03" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Usiiel"><img src="https://avatars.githubusercontent.com/u/14046021?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Manuel Mejias</b></sub></a><br /><a href="https://github.com/VictorCazanave/svg-maps/commits?author=Usiiel" title="Code">💻</a></td>
   </tr>
 </table>
 
